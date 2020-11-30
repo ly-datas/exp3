@@ -98,6 +98,7 @@ listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
 ```
 
 4、实验效果截图
+<br/>
 <img src="https://i.loli.net/2020/11/30/vJQDNSVWf4l5mUo.jpg" style="zoom:33%;"  width="200" height="400" />
 
 ## 二、利用AlertDialog自定义对话框
@@ -214,8 +215,9 @@ public class SecondActivity extends AppCompatActivity {
 ```
 
 3、实验效果截图：
+<br/>
 
-<img src="https://i.loli.net/2020/11/30/XjAwLrZCQ8qmkli.jpg" alt="8DC0E95A1F741678FB94AA402E2E68A3.jpg" style="zoom:33%;" />
+<img src="https://i.loli.net/2020/11/30/XjAwLrZCQ8qmkli.jpg" alt="8DC0E95A1F741678FB94AA402E2E68A3.jpg" width="200" height="400" />
 
 ## 三、使用XML定义菜单
 
@@ -334,17 +336,17 @@ public class ThirdActivity extends AppCompatActivity {
 
 4、实验效果截图：
 
-普通样式：
+普通样式：<br/>
 
-<img src="https://i.loli.net/2020/11/30/n8RBZTxbPrKqH6C.jpg" alt="_VN@OH`5_0_X80T_1VI_X_J.jpg" style="zoom:33%;" />
+<img src="https://i.loli.net/2020/11/30/n8RBZTxbPrKqH6C.jpg" alt="_VN@OH`5_0_X80T_1VI_X_J.jpg" width="200" height="400"/>
 
-字体大小变换：
+字体大小变换：<br/>
 
-<img src="https://i.loli.net/2020/11/30/pUj7H1yOMB8YKJz.png" alt="_CD7_`3_Q8N___Q3GN@X_KM.png" style="zoom:33%;" />
+<img src="https://i.loli.net/2020/11/30/pUj7H1yOMB8YKJz.png" alt="_CD7_`3_Q8N___Q3GN@X_KM.png" width="300" height="500" />
 
-字体颜色变换：
+字体颜色变换：<br/>
 
-<img src="https://i.loli.net/2020/11/30/kED6jxtYsQKFRdV.png" alt="LBS_1N5_J5F2_5__X_BY_VB.png" style="zoom:33%;" />
+<img src="https://i.loli.net/2020/11/30/kED6jxtYsQKFRdV.png" alt="LBS_1N5_J5F2_5__X_BY_VB.png" width="300" height="500" />
 
 ## 四、创建上下文操作模式（ActionMode）的上下文菜单
 
