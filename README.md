@@ -342,11 +342,11 @@ public class ThirdActivity extends AppCompatActivity {
 
 字体大小变换：<br/>
 
-<img src="https://i.loli.net/2020/11/30/pUj7H1yOMB8YKJz.png" alt="_CD7_`3_Q8N___Q3GN@X_KM.png" width="300" height="500" />
+<img src="https://i.loli.net/2020/11/30/pUj7H1yOMB8YKJz.png" alt="_CD7_`3_Q8N___Q3GN@X_KM.png" width="600" />
 
 字体颜色变换：<br/>
 
-<img src="https://i.loli.net/2020/11/30/kED6jxtYsQKFRdV.png" alt="LBS_1N5_J5F2_5__X_BY_VB.png" width="300" height="500" />
+<img src="https://i.loli.net/2020/11/30/kED6jxtYsQKFRdV.png" alt="LBS_1N5_J5F2_5__X_BY_VB.png" width="600" />
 
 ## 四、创建上下文操作模式（ActionMode）的上下文菜单
 
