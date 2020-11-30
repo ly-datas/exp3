@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ExpWork3</string>
+    <!--dmeo1-->
+    <string name="animal"></string>
+    <string name="image"></string>
+
+
+    <!--demo2-->
+    <string name="tv">ANDROID  APP</string>
+    <string name="username">Username</string>
+    <string name="passwd">Password</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_sign">Sign   in</string>
+
+    <!--demo3-->
+    <string name="text">这是一段用来测试的文本</string>
+
+    <string name="font_size">字体大小</string>
+    <string name="font_10">10号</string>
+    <string name="font_16">16号</string>
+    <string name="font_20">20号</string>
+    <string name="plain_item">普通样式</string>
+    <string name="font_color">字体颜色</string>
+    <string name="red_font">红色</string>
+    <string name="black_font">黑色</string>
+
+    <!--demo4-->
+    <string name="mylist2"></string>
+    <string name="str"></string>
+    <string name="action_delete"></string>
+    <string name="action_setting"></string>
+</resources>
