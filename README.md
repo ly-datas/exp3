@@ -98,6 +98,7 @@ listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
 ```
 
 4、实验效果截图
+[](https://i.loli.net/2020/11/30/vJQDNSVWf4l5mUo.jpg!/scale/30)
 
 <img src="https://i.loli.net/2020/11/30/vJQDNSVWf4l5mUo.jpg" alt="037F6D42D5D6FADDC33C8E941CF11FC2.jpg" style="zoom:33%;" />
 
